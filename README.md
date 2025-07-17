@@ -24,38 +24,9 @@
 
 ---
 
-### 🛠 Projects
-
-- 🧱 **Robot Simulator** – basic simulation in C for movement logic  
-- ✅ **To-Do List CLI App** – written in C using arrays and pointers  
-- 🔬 Working on an AI-enabled fault detection prototype for spacecraft systems  
-
----
-
-### 📚 Courses & Certifications
-
-- 🚀 *Space Robotics* – EIT
-- 🧠 *AI Applications in Data Science* – EIT
-- 🔐 *Cybersecurity Innovator* – EIT
-- 📊 *Pre-METS* – Data, AI & BMS foundations
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="450" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="340" />
 </p>
-
----
-
-### 📫 Contact
-
-- [LinkedIn](#)
-- [Email](#)
-
----
-
-> “Learning is about doing. Projects first, theory second.”
-
